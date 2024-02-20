@@ -4,7 +4,7 @@ export const facultyPaths = [
   {
     name: 'Dashboard',
     path: 'dashboard',
-    element: <FacultyDashboard></FacultyDashboard>,
+    element: <FacultyDashboard />,
   },
   {
     name: 'Offered Course',
